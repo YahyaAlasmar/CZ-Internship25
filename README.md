@@ -31,6 +31,13 @@ This is an ESP32-based Smart Safety Node system using:
 - Sends temperature, pressure, gas level, and motion status to ThingSpeak
 - Update interval: every 8 loops (~16 seconds)
 
+## Schematic
+
+You can view the circuit schematic for this project here:
+
+[📄 View Schematic (PDF)](HardWare/smarthome-draft1-PCB.pdf)
+
+
 ## Author
 
 [Yahya Alasmar](https://github.com/YahyaAlasmar)
