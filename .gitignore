@@ -1,0 +1,19 @@
+# ESP-IDF build files
+/build/
+/sdkconfig.old
+/sdkconfig
+/CMakeCache.txt
+*.elf
+*.bin
+*.map
+
+# VS Code settings
+.vscode/
+
+# NVS partition data
+*.csv
+
+# Other temp files
+*.log
+*.pyc
+__pycache__/
